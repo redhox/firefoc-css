@@ -12,3 +12,6 @@ about:profiles
     profile par defaut -> copier le dossier chrome
   
  installer l'add-on firefox <a href="https://github.com/mbnuqw/sidebery">sidebery </a> EN VERSION BETA
+ 
+ 
+ dans les parametre de sideberyimporté le fichier sidbery-data
